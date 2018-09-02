@@ -1,0 +1,91 @@
+header {
+  background-color: #3E3E3E;
+  color: #FFFFFF;
+  height: 50px;
+  width: 750px;
+}
+nav{
+  float: right;
+  padding-right: 670px;
+}
+body {
+  background-color: #F1F0F0;
+  font-family: Courier;
+  color: #47574B;
+  line-height: 12px;
+}
+footer {
+  position: fixed;
+  bottom: 200px;
+  width: 400px;
+  text-align: center;
+  padding-left: 200px;
+
+}
+#Logo {
+  float: left;
+}
+#icon {
+  float: right;
+}
+
+.video {
+  float: left;
+  background-color: #E4E4E4;
+  margin: 5px;
+  width: 200px;
+  border-style: solid;
+  border-color: #E3E3E3;
+  border: 1px solid.#ddd;
+}
+.video:hover {
+  box-shadow: 0 0 2px 1px #3E3E3E;
+}
+.about{
+  align-self: flex-end;
+}
+.Suggestions {
+float: left;
+}
+
+h1 {
+  display: inline;
+  font-size: 30px;
+  font-variant: small-caps;
+  font-family: monospace;
+  font-style: normal;
+  font-weight: lighter;
+  font-stretch: expanded;
+  text-decoration: none;
+  padding-left: 10px;
+}
+h2 {
+  font-size: 25px;
+  font-variant: small-caps;
+  font-family: monospace;
+}
+h3 {
+  font-size: 25px;
+  font-variant: small-caps;
+  font-family: monospace;
+}
+h4 {
+  font-size: 20px;
+  font-variant: small-caps;
+  font-family: monospace;
+}
+h5 {
+  font-size: 15px;
+  font-variant: inherit;
+  font-family: monospace;
+}
+h6 {
+  font-size: 10px;
+  font-variant: normal;
+  font-family: monospace;
+}
+p {
+  font-size: 15px;
+  font-variant: small-caps;
+  font-family: monospace;
+}
